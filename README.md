@@ -1,6 +1,6 @@
 Indicadores
 
-##setup:
+## setup:
 ```pip install flask```&nbsp;
-##rodando o código
+## rodando o código
 ```python app.py```
